@@ -94,7 +94,7 @@ Boston, MA 02111-1307, USA.  */
 	
 
 #define REG(NAME)			\
-NAME:	.dc.w	1;			\
+NAME:	.dc.w	0;			\
 	.type NAME,@object ;		\
 	.size NAME,2
 
