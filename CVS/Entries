@@ -1,0 +1,43 @@
+/.brik/1.1/Wed May  2 15:45:05 2012//
+/.cvsignore/1.1/Wed May  2 15:45:05 2012//
+/BUGS/1.1/Wed May  2 15:45:05 2012//
+/COPYING/1.1/Wed May  2 15:45:05 2012//
+/COPYING.LIB/1.1/Wed May  2 15:45:05 2012//
+/ChangeLog/1.1/Wed May  2 15:45:05 2012//
+/ChangeLog.M68HC11/1.1/Wed May  2 15:45:05 2012//
+/FAQ/1.1/Wed May  2 15:45:05 2012//
+/MAINTAINERS/1.1/Wed May  2 15:45:05 2012//
+/Makefile.def/1.1/Wed May  2 15:45:05 2012//
+/Makefile.in/1.1/Wed May  2 15:45:05 2012//
+/Makefile.tpl/1.1/Wed May  2 15:45:05 2012//
+/NEWS/1.1/Wed May  2 15:45:05 2012//
+/README/1.1/Wed May  2 15:45:05 2012//
+/README.SCO/1.1/Wed May  2 15:45:05 2012//
+/bugs.html/1.1/Wed May  2 15:45:05 2012//
+/config-ml.in/1.1/Wed May  2 15:45:05 2012//
+/config.guess/1.1/Wed May  2 15:45:05 2012//
+/config.if/1.1/Wed May  2 15:45:05 2012//
+/config.sub/1.1/Wed May  2 15:45:05 2012//
+/configure/1.1/Wed May  2 15:45:05 2012//
+/configure.in/1.1/Wed May  2 15:45:05 2012//
+/faq.html/1.1/Wed May  2 15:45:05 2012//
+/install-sh/1.1/Wed May  2 15:45:05 2012//
+/libtool.m4/1.1/Wed May  2 15:45:05 2012//
+/ltcf-c.sh/1.1/Wed May  2 15:45:05 2012//
+/ltcf-cxx.sh/1.1/Wed May  2 15:45:05 2012//
+/ltcf-gcj.sh/1.1/Wed May  2 15:45:05 2012//
+/ltconfig/1.1/Wed May  2 15:45:05 2012//
+/ltmain.sh/1.1/Wed May  2 15:45:05 2012//
+/missing/1.1/Wed May  2 15:45:05 2012//
+/mkdep/1.1/Wed May  2 15:45:05 2012//
+/mkinstalldirs/1.1/Wed May  2 15:45:05 2012//
+/move-if-change/1.1/Wed May  2 15:45:05 2012//
+/symlink-tree/1.1/Wed May  2 15:45:05 2012//
+/ylwrap/1.1/Wed May  2 15:45:05 2012//
+D/INSTALL////
+D/config////
+D/contrib////
+D/gcc////
+D/include////
+D/libiberty////
+D/maintainer-scripts////
